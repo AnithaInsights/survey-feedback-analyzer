@@ -1,7 +1,11 @@
 # Survey Feedback Analyzer using Python
 # 📊 Survey Feedback Analyzer
 
-A beginner-friendly **Python Data Analytics Project** that cleans customer survey feedback and generates useful business insights using core Python concepts.
+> A Python-based Data Analytics project that cleans and analyzes customer survey feedback to generate meaningful business insights.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ## Project Overview
 
 Survey Feedback Analyzer is a beginner-friendly Python project that simulates how customer survey responses are cleaned and analyzed before generating business insights.
