@@ -1,5 +1,7 @@
 # Survey Feedback Analyzer using Python
+# 📊 Survey Feedback Analyzer
 
+A beginner-friendly **Python Data Analytics Project** that cleans customer survey feedback and generates useful business insights using core Python concepts.
 ## Project Overview
 
 Survey Feedback Analyzer is a beginner-friendly Python project that simulates how customer survey responses are cleaned and analyzed before generating business insights.
@@ -16,15 +18,15 @@ This project demonstrates text preprocessing, rating analysis, word extraction, 
 * Lists, Sets, `append()`, `pop()`
 * `zip()` and `sorted()`
 
-## Features
+## ✨ Features
 
-* Load a pre-defined customer survey dataset.
-* Add new customer feedback dynamically.
-* Clean messy text data.
-* Calculate average customer rating.
-* Find the longest customer feedback.
-* Extract unique words from feedback.
-* Sort feedback based on rating (highest to lowest).
+- Load customer survey feedback dataset.
+- Add new feedback dynamically.
+- Clean messy text data.
+- Calculate average customer rating.
+- Find the longest feedback comment.
+- Extract unique words from feedback.
+- Sort feedback by rating (highest to lowest).
 
 ## Project Workflow
 
@@ -55,8 +57,6 @@ This project demonstrates text preprocessing, rating analysis, word extraction, 
 ### 4. Business Insights – Part 2
 ![Business Insights 2](assets/business_insights2.png)
 
+## 🎯 Learning Outcome
 
-
-## Learning Outcome
-
-This project helped me understand Python data structures, text preprocessing, loops, functions, and basic data analysis techniques commonly used in Data Analytics.
+This project demonstrates practical Python programming for text preprocessing and basic customer feedback analysis. It helped me practice loops, functions, dictionaries, string operations, and business insight generation.
