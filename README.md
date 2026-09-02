@@ -41,6 +41,22 @@ This project demonstrates text preprocessing, rating analysis, word extraction, 
 * Unique vocabulary used by customers.
 * Highest-rated feedback entries.
 
+## Project Output
+
+### 1. Original Dataset
+![Original Dataset](assets/original_dataset.png)
+
+### 2. Final Cleaned Dataset
+![Final Cleaned Dataset](assets/cleaned_dataset.png)
+
+### 3. Business Insights – Part 1
+![Business Insights 1](assets/business_insights1.png)
+
+### 4. Business Insights – Part 2
+![Business Insights 2](assets/business_insights2.png)
+
+
+
 ## Learning Outcome
 
 This project helped me understand Python data structures, text preprocessing, loops, functions, and basic data analysis techniques commonly used in Data Analytics.
