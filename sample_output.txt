@@ -1,0 +1,17 @@
+========================================
+SURVEY FEEDBACK ANALYZER
+========================================
+
+Total Feedbacks : 11
+Average Rating  : 3.55
+
+Longest Feedback:
+poor response and poor handling of issue
+
+Word Count : 7
+
+Unique Words:
+again, ambience, bad, better, care, excellent,
+experience, food, good, great, happy, issue,
+not, okay, poor, quick, response, satisfied,
+service, staff, support, teaching, very, will
